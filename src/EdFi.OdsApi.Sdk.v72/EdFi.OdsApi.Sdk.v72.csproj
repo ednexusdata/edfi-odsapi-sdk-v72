@@ -14,7 +14,7 @@
     <RootNamespace>EdFi.OdsApi.Sdk.v72</RootNamespace>
     <Version>1.0.2</Version>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\EdFi.OdsApi.Sdk.v72.xml</DocumentationFile>
-    <RepositoryUrl>https://github.com/GIT_USER_ID/GIT_REPO_ID.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/ednexusdata/edfi-odsapi-sdk-v72.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Minor update</PackageReleaseNotes>
     <Nullable>annotations</Nullable>
